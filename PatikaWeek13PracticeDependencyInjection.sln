@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaWeek13PracticeDependencyInjection", "PatikaWeek13PracticeDependencyInjection\PatikaWeek13PracticeDependencyInjection.csproj", "{7C97543B-119C-4B4C-B704-2BE8949CAB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C97543B-119C-4B4C-B704-2BE8949CAB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C97543B-119C-4B4C-B704-2BE8949CAB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C97543B-119C-4B4C-B704-2BE8949CAB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C97543B-119C-4B4C-B704-2BE8949CAB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523068FC-C28C-4544-8BF1-6817324EABDF}
+	EndGlobalSection
+EndGlobal
